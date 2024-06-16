@@ -1,6 +1,7 @@
 # twa-template
 
 > Starter template for a new TWA interacting with the TON blockchain
+>
 
 # Overview
 
@@ -28,10 +29,9 @@ The project is highly-opinionated, and there are many other alternate routes it 
    1. Choose a name for your repo
    2. `**IMPORTANT!!**` mark "Include all branches", otherwise github pages deployment will not work.
       ![image](https://user-images.githubusercontent.com/5641469/191731317-14e742fd-accb-47d4-a794-fad01148a377.png)
-
 2. Clone this repo and run `yarn`
-
 3. Create a new bot with [botfather](https://t.me/botfather)
+
    1. Type `/newbot`
    2. Choose a name for your bot, e.g. `My Ton TWA`
    3. Choose a username for your bot, e.g. `my_ton_twa_482765_bot`
