@@ -44,6 +44,9 @@ function App() {
           </FlexBoxRow>
           <Counter />
           <TransferTon />
+          <Button>
+            <a href="https://docs.ton.dev">TON SDK Docs</a>
+          </Button>
         </FlexBoxCol>
       </AppContainer>
     </StyledApp>
