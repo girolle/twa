@@ -45,7 +45,7 @@ function App() {
           <Counter />
           <TransferTon />
           <Button>
-            <a href="https://docs.ton.dev">TON SDK Docs</a>
+            <a href="ton://transfer/UQBrtSiIUp9xVdQT4JZOpbNWln8sNKX41ZZRTXAgZ-sxNc9R?amount=1&text=hello">Send</a>
           </Button>
         </FlexBoxCol>
       </AppContainer>
